@@ -10,7 +10,7 @@
 ❌ Failure View
 
 <div align="center">
-  [![Failure View](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.gif)](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4)
+  https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4
 </div>
 
 🎨 Design Reference
