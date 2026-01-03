@@ -3,7 +3,7 @@
 ✅ Success View
 
 <div align="center">
-  [![Success View](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.gif)](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4)
+  https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4
 </div>
 <br/>
 
