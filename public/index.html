@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -17,10 +17,7 @@
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>NxtWatch</title>
     <script type="text/javascript">
-      // hide HRM logs because they're distracting
-      // prettier-ignore
       const log = console.log;
-      // prettier-ignore
       console.log = (...args) =>
         args[0]?.includes?.('[HMR]') ? null : log(...args);
     </script>

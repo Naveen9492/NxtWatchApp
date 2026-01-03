@@ -3,14 +3,22 @@
 ✅ Success View
 
 <div align="center">
+<<<<<<< HEAD
   https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4
+=======
+  [![Success View](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.gif)](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4)
+>>>>>>> Replace BrowserRouter with HashRouter for GitHub Pages
 </div>
 <br/>
 
 ❌ Failure View
 
 <div align="center">
+<<<<<<< HEAD
   https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4
+=======
+  [![Failure View](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.gif)](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4)
+>>>>>>> Replace BrowserRouter with HashRouter for GitHub Pages
 </div>
 
 🎨 Design Reference
