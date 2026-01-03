@@ -1,11 +1,18 @@
 🚀 Project Preview
+
 ✅ Success View
 
-<div style="text-align: center;"> <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop autoplay controls muted> <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4" type="video/mp4"> </video> </div> <br/>
+<div align="center">
+  [![Success View](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.gif)](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output-v0.mp4)
+</div>
+<br/>
 
 ❌ Failure View
 
-<div style="text-align: center;"> <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop autoplay controls muted> <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4" type="video/mp4"> </video> </div>
+<div align="center">
+  [![Failure View](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.gif)](https://assets.ccbp.in/frontend/content/react-js/nxt-watch-failure-output-v0.mp4)
+</div>
+
 🎨 Design Reference
 
 The UI of this project was built by closely following the provided design files for different screen sizes and themes.
